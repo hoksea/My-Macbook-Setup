@@ -39,6 +39,7 @@
 # Recording / Live
 + OBS (Live stream)
 + KeyCastr (display the keystrokes you pressed while recording)
++ Soundflower
 + iScream (sound recording)
 + licecap (screen recording - gif)
 
@@ -69,6 +70,7 @@
 + Medibangpaint
 + SketchUp
 + Wacom (connect to my tablet）
++ 茶繪君
 
 # Stats / Databases / Visualization
 + R, RStudio
@@ -77,3 +79,6 @@
 + Tableau
 + Visual Paradigm
 + Python
+
+# Music
++ MuseScore (produce score & auto-play the score)
