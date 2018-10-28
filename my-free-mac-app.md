@@ -75,4 +75,5 @@
 + XAMPP
 + MySQLWorkbench
 + Tableau
++ Visual Paradigm
 + Python
